@@ -1,16 +1,16 @@
-# bajateraho
+# BajateRaho 🎶
 
-A new Flutter application.
+An elegant music player built with flutter❤.
 
-## Getting Started
+For the time being it is just an design implementation, functionality will be soon added down the line.
 
-This project is a starting point for a Flutter application.
+Design inspired by [Music Player 2 by ZhaoWei](https://dribbble.com/shots/6218932-Music-Player-2)
 
-A few resources to get you started if this is your first Flutter project:
+This is how it looks:
+<img src="" height = 450px/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I hope you'll like it! 
+Feel free to contribute and drop me a message!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Cheers!✨
