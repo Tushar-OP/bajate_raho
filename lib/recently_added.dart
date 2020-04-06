@@ -24,7 +24,7 @@ class _RecentlyAddedSongsState extends State<RecentlyAddedSongs> {
                 height: 70,
               ),
               SectionInfo(
-                sectionName: 'Recntly Added',
+                sectionName: 'Recently Added',
                 icon: Icons.add,
               ),
               SizedBox(
